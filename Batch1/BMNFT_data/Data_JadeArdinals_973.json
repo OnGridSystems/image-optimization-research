@@ -1,0 +1,18 @@
+{
+ "name": "JadeArdinals_973",
+ "nft_dna": {
+  "4-3-19-2-18-13": {
+   "complete": false,
+   "order_num": 973
+  }
+ },
+ "nft_variants": {
+  "Background": "LavenderBackground _4_11.11",
+  "Inside": "StarInside_3_25",
+  "Stand": "DesertStand_19_3",
+  "Top": "CrownRedTop_2_6.25",
+  "jade": "BrokenWhiteJade_18_6.75",
+  "outside": "AmberBeltOutside_13_7.14"
+ },
+ "material_attributes": {}
+}

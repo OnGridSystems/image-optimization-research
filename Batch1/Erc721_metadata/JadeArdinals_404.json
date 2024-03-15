@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_404",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "GreenBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "StarInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "TerraEarthStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CloudTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeWhite"
+  },
+  {
+   "trait_type": "outside",
+   "value": "RubyBeltOutside"
+  }
+ ]
+}

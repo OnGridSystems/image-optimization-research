@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_634",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "IvoryBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "ForestStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "StormCloud"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeBlack"
+  },
+  {
+   "trait_type": "outside",
+   "value": "RubyBeltOutside"
+  }
+ ]
+}

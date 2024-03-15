@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_102",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "RedBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "NoneInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "SnowStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "StormCloud"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeBlack"
+  },
+  {
+   "trait_type": "outside",
+   "value": "PurplePetalsOutside"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_637",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "EarthBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "ArdinalsInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BREarthStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "DarkCloudTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeRed"
+  },
+  {
+   "trait_type": "outside",
+   "value": "OceanNestOutside"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_971",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "EarthBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "NoneInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "SnowStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownLapizTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadePurple"
+  },
+  {
+   "trait_type": "outside",
+   "value": "AgateBeltOutside"
+  }
+ ]
+}

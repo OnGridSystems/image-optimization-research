@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_427",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "DarkBacBrownkground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "GlassOceanStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "BlueRoseTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenWhiteJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "OceanNestOutside"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "name": "JadeArdinals_785",
+ "nft_dna": {
+  "3-2-8-8-13-12": {
+   "complete": false,
+   "order_num": 785
+  }
+ },
+ "nft_variants": {
+  "Background": "BlueBackground _3_11.11",
+  "Inside": "CoinInside_2_25",
+  "Stand": "GlassCoperStand_8_5.78",
+  "Top": "CloudTop_8_12.5",
+  "jade": "BrokenBrownJade_13_6.75",
+  "outside": "LapizBeltOutside_12_7.14"
+ },
+ "material_attributes": {}
+}

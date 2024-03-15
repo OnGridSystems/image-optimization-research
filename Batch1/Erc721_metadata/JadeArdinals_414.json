@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_414",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "DarkBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "CilEarthStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CoinTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeLavender"
+  },
+  {
+   "trait_type": "outside",
+   "value": "BluePetalsOutside"
+  }
+ ]
+}

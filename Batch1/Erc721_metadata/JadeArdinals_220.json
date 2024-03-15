@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_220",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "DarkBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "NoneInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BROceanStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "NoneTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeLavender"
+  },
+  {
+   "trait_type": "outside",
+   "value": "BlueFlame"
+  }
+ ]
+}

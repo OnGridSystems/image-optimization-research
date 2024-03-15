@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_650",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "IvoryBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "GlassCoperStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownLapizTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenLavenderJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "AmberBeltOutside"
+  }
+ ]
+}

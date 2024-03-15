@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_86",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "DarkBacBrownkground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "StarInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "SavanaStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "ArdinalsTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenLavenderJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "RedPetalsOutside"
+  }
+ ]
+}

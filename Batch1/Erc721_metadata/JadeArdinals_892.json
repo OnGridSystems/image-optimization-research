@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_892",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "GreenBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "ArdinalsInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BRGoldStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "BlueRoseTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeBrown"
+  },
+  {
+   "trait_type": "outside",
+   "value": "LapizBeltOutside"
+  }
+ ]
+}

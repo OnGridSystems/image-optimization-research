@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_32",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "GreenBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "GlassOceanStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownLapizTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenLavenderJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "OceanNestOutside"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_519",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "DarkBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "ForestStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownGreenTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenAmberJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "LapizBeltOutside"
+  }
+ ]
+}

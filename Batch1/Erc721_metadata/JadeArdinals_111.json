@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_111",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "LavenderBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "StarInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "GlassCoperStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CloudTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadePurple"
+  },
+  {
+   "trait_type": "outside",
+   "value": "OrionPurpleOutside"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_13",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "BlueBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "ArdinalsInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "VolcanoStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "StarTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenWhiteJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "NoneOutside"
+  }
+ ]
+}

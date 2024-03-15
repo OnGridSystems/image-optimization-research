@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_411",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "LavenderBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "NoneInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "RingGoldStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownRedTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeBrown"
+  },
+  {
+   "trait_type": "outside",
+   "value": "AmberBeltOutside"
+  }
+ ]
+}

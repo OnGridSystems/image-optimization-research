@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_918",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "LavenderBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "DesertStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "PinkRoseTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenLavenderJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "AmberBeltOutside"
+  }
+ ]
+}

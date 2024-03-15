@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_356",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "IvoryBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "GlassOceanStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "DarkCloudTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenWhiteJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "OrionBlueOutside"
+  }
+ ]
+}

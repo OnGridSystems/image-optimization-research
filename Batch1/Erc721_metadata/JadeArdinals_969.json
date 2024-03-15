@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_969",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "EarthBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "StarInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BRSilverStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownGreenTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenAmberJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "Flame"
+  }
+ ]
+}

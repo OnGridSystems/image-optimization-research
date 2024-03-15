@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_544",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "GreenBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "StarInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BREarthStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownGreenTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenAmberJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "LiquidForestOutside"
+  }
+ ]
+}

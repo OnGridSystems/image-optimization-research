@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_397",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "LavenderBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "NoneInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "CilEarthStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownLapizTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeLavender"
+  },
+  {
+   "trait_type": "outside",
+   "value": "GoldNestOutside"
+  }
+ ]
+}

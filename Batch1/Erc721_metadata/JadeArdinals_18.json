@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_18",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "PurpleBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "ArdinalsInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "HalfmoonStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "PinkRoseTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenGreenJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "BluePetalsOutside"
+  }
+ ]
+}

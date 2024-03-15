@@ -1,0 +1,18 @@
+{
+ "name": "JadeArdinals_333",
+ "nft_dna": {
+  "5-1-16-3-8-12": {
+   "complete": false,
+   "order_num": 333
+  }
+ },
+ "nft_variants": {
+  "Background": "PurpleBackground _5_11.11",
+  "Inside": "ArdinalsInside_1_25",
+  "Stand": "ForestStand_16_3",
+  "Top": "CrownLapizTop_3_12.5",
+  "jade": "JadeRed_8_6",
+  "outside": "LapizBeltOutside_12_7.14"
+ },
+ "material_attributes": {}
+}

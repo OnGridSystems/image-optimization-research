@@ -1,0 +1,18 @@
+{
+ "name": "JadeArdinals_180",
+ "nft_dna": {
+  "5-2-2-3-11-5": {
+   "complete": false,
+   "order_num": 180
+  }
+ },
+ "nft_variants": {
+  "Background": "PurpleBackground _5_11.11",
+  "Inside": "CoinInside_2_25",
+  "Stand": "BRSilverStand_2_5.78",
+  "Top": "CrownLapizTop_3_12.5",
+  "jade": "BrokenAmberJade_11_6.75",
+  "outside": "LiquidGoldOutside_5_7.14"
+ },
+ "material_attributes": {}
+}

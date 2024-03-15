@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_417",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "RedBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "NoneInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "OceanStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownGreenTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeBlack"
+  },
+  {
+   "trait_type": "outside",
+   "value": "OceanNestOutside"
+  }
+ ]
+}

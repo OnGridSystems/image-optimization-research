@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_708",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "IvoryBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "NoneInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "GlassWhiteStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownLapizTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenLightGJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "OrionBlueOutside"
+  }
+ ]
+}

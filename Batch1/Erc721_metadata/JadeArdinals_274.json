@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_274",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "DarkBacBrownkground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "CilBlueStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownGreenTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeRed"
+  },
+  {
+   "trait_type": "outside",
+   "value": "LiquidForestOutside"
+  }
+ ]
+}

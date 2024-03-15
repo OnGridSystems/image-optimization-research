@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_748",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "DarkBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "StarInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "RingGoldStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "NoneTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenLavenderJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "AmberBeltOutside"
+  }
+ ]
+}

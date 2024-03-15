@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_337",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "IvoryBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "ArdinalsInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "TerraEarthStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CoinTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenPurpleJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "BluePetalsOutside"
+  }
+ ]
+}

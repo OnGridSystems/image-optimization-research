@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_609",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "LavenderBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "ArdinalsInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BRGoldStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "StormCloud"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeLightG"
+  },
+  {
+   "trait_type": "outside",
+   "value": "AmberBeltOutside"
+  }
+ ]
+}

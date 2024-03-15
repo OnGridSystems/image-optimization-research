@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_545",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "RedBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "StarInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "GlassCoperStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "DarkCloudTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenAmberJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "OrionRubyOutside"
+  }
+ ]
+}

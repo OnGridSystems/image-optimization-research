@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_836",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "LavenderBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "NoneInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BRSilverStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownGreenTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeLavender"
+  },
+  {
+   "trait_type": "outside",
+   "value": "LiquidGoldOutside"
+  }
+ ]
+}

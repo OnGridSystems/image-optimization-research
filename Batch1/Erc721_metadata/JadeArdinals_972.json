@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_972",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "IvoryBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "CilCoalStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownRedTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeBrown"
+  },
+  {
+   "trait_type": "outside",
+   "value": "LapizBeltOutside"
+  }
+ ]
+}

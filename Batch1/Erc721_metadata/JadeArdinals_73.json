@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_73",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "EarthBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "StarInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BRSilverStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownRedTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenGreenJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "OrionRubyOutside"
+  }
+ ]
+}

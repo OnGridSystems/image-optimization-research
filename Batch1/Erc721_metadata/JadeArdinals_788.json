@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_788",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "IvoryBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "SavanaStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CloudTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeLightG"
+  },
+  {
+   "trait_type": "outside",
+   "value": "RubyBeltOutside"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_124",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "RedBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "StarInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "TerraEarthStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "DarkCloudTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenPurpleJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "PurplePetalsOutside"
+  }
+ ]
+}

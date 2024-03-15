@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_420",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "IvoryBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "GlassWhiteStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "ArdinalsTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenRedJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "LiquidForestOutside"
+  }
+ ]
+}

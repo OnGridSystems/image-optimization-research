@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_315",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "IvoryBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "ArdinalsInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "CilCoalStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "PinkRoseTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeLavender"
+  },
+  {
+   "trait_type": "outside",
+   "value": "AgateBeltOutside"
+  }
+ ]
+}

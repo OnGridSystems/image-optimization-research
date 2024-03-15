@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_169",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "RedBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "NoneInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "VolcanoStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownRedTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeAmber"
+  },
+  {
+   "trait_type": "outside",
+   "value": "LiquidGoldOutside"
+  }
+ ]
+}

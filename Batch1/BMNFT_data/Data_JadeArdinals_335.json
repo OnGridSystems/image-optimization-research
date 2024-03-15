@@ -1,0 +1,18 @@
+{
+ "name": "JadeArdinals_335",
+ "nft_dna": {
+  "4-1-5-1-9-3": {
+   "complete": false,
+   "order_num": 335
+  }
+ },
+ "nft_variants": {
+  "Background": "LavenderBackground _4_11.11",
+  "Inside": "ArdinalsInside_1_25",
+  "Stand": "RingGoldStand_5_5.78",
+  "Top": "CrownGreenTop_1_12.5",
+  "jade": "JadeWhite_9_3.75",
+  "outside": "OrionPurpleOutside_3_5"
+ },
+ "material_attributes": {}
+}

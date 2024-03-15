@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_502",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "GreenBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BRSilverStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CloudTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenLightGJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "RubyBeltOutside"
+  }
+ ]
+}

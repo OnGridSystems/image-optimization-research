@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_947",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "LavenderBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "StarInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "GlassCoperStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CoinTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenBlackJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "PurplePetalsOutside"
+  }
+ ]
+}

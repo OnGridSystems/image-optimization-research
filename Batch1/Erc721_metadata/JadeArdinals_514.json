@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_514",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "IvoryBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BROceanStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownRedTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenGreenJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "AgateBeltOutside"
+  }
+ ]
+}

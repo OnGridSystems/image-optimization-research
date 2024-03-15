@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_584",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "DarkBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "CilBlueStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "BlueRoseTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenLightGJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "LapizBeltOutside"
+  }
+ ]
+}

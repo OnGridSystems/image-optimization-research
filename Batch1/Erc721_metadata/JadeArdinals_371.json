@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_371",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "RedBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "NoneInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "DesertStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownLapizTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeAmber"
+  },
+  {
+   "trait_type": "outside",
+   "value": "LiquidGoldOutside"
+  }
+ ]
+}

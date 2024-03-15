@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_211",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "IvoryBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "NoneInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "SavanaStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "BlueRoseTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenBlackJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "RubyBeltOutside"
+  }
+ ]
+}

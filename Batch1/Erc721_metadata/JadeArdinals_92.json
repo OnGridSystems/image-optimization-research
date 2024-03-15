@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_92",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "DarkBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "ArdinalsInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "GlassWhiteStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "BlueRoseTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeBlack"
+  },
+  {
+   "trait_type": "outside",
+   "value": "SilverNestOutside"
+  }
+ ]
+}

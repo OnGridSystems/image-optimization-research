@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_932",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "DarkBacBrownkground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "StarInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "VolcanoStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "StormCloud"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeLavender"
+  },
+  {
+   "trait_type": "outside",
+   "value": "AgateBeltOutside"
+  }
+ ]
+}

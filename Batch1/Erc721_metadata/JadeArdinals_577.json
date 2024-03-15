@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_577",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "DarkBacBrownkground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "NoneInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "OceanStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CloudTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenLightGJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "SilverNestOutside"
+  }
+ ]
+}

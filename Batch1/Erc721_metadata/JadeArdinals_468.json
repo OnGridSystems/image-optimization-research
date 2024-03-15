@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_468",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "IvoryBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "StarInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BRSilverStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "ArdinalsTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeRed"
+  },
+  {
+   "trait_type": "outside",
+   "value": "LiquidBlueOutside"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_19",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "PurpleBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "ArdinalsInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BRGoldStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CloudTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenBrownJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "AgateBeltOutside"
+  }
+ ]
+}

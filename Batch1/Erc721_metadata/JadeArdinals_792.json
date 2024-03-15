@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_792",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "LavenderBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "GlassOceanStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "ArdinalsTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenBlackJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "OrionRubyOutside"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_749",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "RedBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "ArdinalsInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "CilCoalStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "NoneTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenPurpleJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "LiquidBlueOutside"
+  }
+ ]
+}

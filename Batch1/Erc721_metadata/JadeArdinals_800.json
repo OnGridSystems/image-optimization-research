@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_800",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "DarkBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "ArdinalsInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BRGoldStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "DarkCloudTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenBlackJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "OrionRubyOutside"
+  }
+ ]
+}

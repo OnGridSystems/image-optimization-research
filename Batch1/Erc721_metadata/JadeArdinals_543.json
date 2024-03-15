@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_543",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "GreenBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BROceanStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownGreenTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeBrown"
+  },
+  {
+   "trait_type": "outside",
+   "value": "Flame"
+  }
+ ]
+}

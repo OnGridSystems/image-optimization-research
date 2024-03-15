@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_194",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "IvoryBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "StarInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BRSilverStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "NoneTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeBrown"
+  },
+  {
+   "trait_type": "outside",
+   "value": "LiquidForestOutside"
+  }
+ ]
+}

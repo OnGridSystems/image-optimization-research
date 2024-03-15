@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_638",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "RedBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "NoneInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "TerraWhiteStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownGreenTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenLightGJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "OrionRubyOutside"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_894",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "GreenBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "ArdinalsInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "TerraOceanStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "StormCloud"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenPurpleJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "SilverNestOutside"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_2",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "DarkBacBrownkground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "StarInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BRSilverStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownGreenTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenBrownJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "NoneOutside"
+  }
+ ]
+}

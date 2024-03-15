@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_769",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "LavenderBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "ArdinalsInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "CilCoalStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownGreenTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeRed"
+  },
+  {
+   "trait_type": "outside",
+   "value": "PurplePetalsOutside"
+  }
+ ]
+}

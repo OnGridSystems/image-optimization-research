@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_241",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "BlueBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "RingGoldStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CloudTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenPurpleJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "SilverNestOutside"
+  }
+ ]
+}

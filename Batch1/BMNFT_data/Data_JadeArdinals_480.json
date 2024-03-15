@@ -1,0 +1,18 @@
+{
+ "name": "JadeArdinals_480",
+ "nft_dna": {
+  "5-2-7-8-9-6": {
+   "complete": false,
+   "order_num": 480
+  }
+ },
+ "nft_variants": {
+  "Background": "PurpleBackground _5_11.11",
+  "Inside": "CoinInside_2_25",
+  "Stand": "GlassWhiteStand_7_5.78",
+  "Top": "CloudTop_8_12.5",
+  "jade": "JadeWhite_9_3.75",
+  "outside": "LiquidForestOutside_6_7.14"
+ },
+ "material_attributes": {}
+}

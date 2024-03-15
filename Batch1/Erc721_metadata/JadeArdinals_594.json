@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_594",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "EarthBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "CilBlueStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "ArdinalsTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenLightGJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "OrionBlueOutside"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_555",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "BlueBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "NoneInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BREarthStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "StormCloud"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadePurple"
+  },
+  {
+   "trait_type": "outside",
+   "value": "BlueFlame"
+  }
+ ]
+}

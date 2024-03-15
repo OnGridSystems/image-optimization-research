@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_889",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "IvoryBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "ArdinalsInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "BREarthStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "StarTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "JadeWhite"
+  },
+  {
+   "trait_type": "outside",
+   "value": "AgateBeltOutside"
+  }
+ ]
+}

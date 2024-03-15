@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_725",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "IvoryBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "NoneInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "CilEarthStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "CrownGreenTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenBlackJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "OrionPurpleOutside"
+  }
+ ]
+}

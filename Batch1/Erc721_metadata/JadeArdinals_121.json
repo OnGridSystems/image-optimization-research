@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_121",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "IvoryBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "NoneInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "GlassWhiteStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "BlueRoseTop"
+  },
+  {
+   "trait_type": "jade",
+   "value": "Jadegreen"
+  },
+  {
+   "trait_type": "outside",
+   "value": "BluePetalsOutside"
+  }
+ ]
+}

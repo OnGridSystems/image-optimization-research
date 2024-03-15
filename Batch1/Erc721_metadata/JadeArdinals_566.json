@@ -1,0 +1,31 @@
+{
+ "name": "JadeArdinals_566",
+ "description": "",
+ "image": "",
+ "attributes": [
+  {
+   "trait_type": "Background",
+   "value": "GreenBackground "
+  },
+  {
+   "trait_type": "Inside",
+   "value": "CoinInside"
+  },
+  {
+   "trait_type": "Stand",
+   "value": "CilCoalStand"
+  },
+  {
+   "trait_type": "Top",
+   "value": "StormCloud"
+  },
+  {
+   "trait_type": "jade",
+   "value": "BrokenWhiteJade"
+  },
+  {
+   "trait_type": "outside",
+   "value": "LiquidBlueOutside"
+  }
+ ]
+}
