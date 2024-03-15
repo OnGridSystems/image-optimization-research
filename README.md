@@ -18,3 +18,11 @@ Arguments: -strip -depth 8
 <img src="./stripped-depth8.png" width="100" height="100"><img src="./stripped-depth8.png" width="200" height="200"><img src="./stripped-depth8.png" width="480" height="480">
 <a href=./stripped-depth8.png.details.txt>details</a>
 
+
+### PNG with 500 colors (1963 bytes)
+
+Arguments: -strip -depth 8 -colors 500
+
+<img src="./stripped-depth8-500c.png" width="100" height="100"><img src="./stripped-depth8-500c.png" width="200" height="200"><img src="./stripped-depth8-500c.png" width="480" height="480">
+<a href=./stripped-depth8-500c.png.details.txt>details</a>
+

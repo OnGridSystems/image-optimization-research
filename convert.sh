@@ -2,9 +2,9 @@
 
 SOURCE_IMAGE="./Batch1/Images/JadeArdinals_1.png"
 
-COMMENT="Stripped PNG without metadata"
-ARGS="-strip -depth 8"
-OUTPUT_IMAGE="./stripped-depth8.png"
+COMMENT="PNG with 500 colors"
+ARGS="-strip -depth 8 -colors 500"
+OUTPUT_IMAGE="./stripped-depth8-500c.png"
 
 
 magick convert $SOURCE_IMAGE $ARGS $OUTPUT_IMAGE
@@ -14,7 +14,7 @@ LOG=$OUTPUT_IMAGE.details.txt
 echo "$IDENTIFYOUTPUT" > $LOG
 
 echo 
-echo "### ${COMMENT} ${SIZE} bytes"
+echo "### ${COMMENT} (${SIZE} bytes)"
 echo
 echo "Arguments: $ARGS"
 echo
