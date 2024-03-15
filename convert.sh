@@ -3,8 +3,8 @@
 SOURCE_IMAGE="./Batch1/Images/JadeArdinals_1.png"
 
 COMMENT="Stripped PNG without metadata"
-ARGS="-strip"
-OUTPUT_IMAGE="./stripped.png"
+ARGS="-strip -depth 8"
+OUTPUT_IMAGE="./stripped-depth8.png"
 
 
 magick convert $SOURCE_IMAGE $ARGS $OUTPUT_IMAGE
