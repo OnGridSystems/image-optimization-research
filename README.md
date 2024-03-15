@@ -222,6 +222,112 @@ Image:
 
 ```
 
+### PNG with decreased depth (8bit instead of 16 bit) =2097B
+
+<img src="./8bit-depth-output.png" width="480" height="480">
+
+```
+magick convert ./Batch1/Images/JadeArdinals_1.png -strip -depth 8 8bit-depth-output.png
+magick identify -verbose 8bit-depth-output.png
+Image:
+  Filename: 8bit-depth-output.png
+  Permissions: rw-r--r--
+  Format: PNG (Portable Network Graphics)
+  Mime type: image/png
+  Class: DirectClass
+  Geometry: 48x48+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: TrueColor
+  Endianness: Undefined
+  Depth: 8-bit
+  Channels: 3.0
+  Channel depth:
+    Red: 8-bit
+    Green: 8-bit
+    Blue: 8-bit
+  Channel statistics:
+    Pixels: 2304
+    Red:
+      min: 40  (0.156863)
+      max: 250 (0.980392)
+      mean: 200.213 (0.785149)
+      median: 206 (0.807843)
+      standard deviation: 26.7467 (0.104889)
+      kurtosis: 17.7478
+      skewness: -3.91481
+      entropy: 0.372721
+    Green:
+      min: 36  (0.141176)
+      max: 244 (0.956863)
+      mean: 185.123 (0.725974)
+      median: 197 (0.772549)
+      standard deviation: 33.7802 (0.132471)
+      kurtosis: 7.108
+      skewness: -2.70042
+      entropy: 0.371159
+    Blue:
+      min: 10  (0.0392157)
+      max: 247 (0.968627)
+      mean: 165.398 (0.648621)
+      median: 182 (0.713725)
+      standard deviation: 43.2972 (0.169793)
+      kurtosis: 3.59284
+      skewness: -2.10375
+      entropy: 0.376091
+  Image statistics:
+    Overall:
+      min: 10  (0.0392157)
+      max: 250 (0.980392)
+      mean: 183.578 (0.719915)
+      median: 195 (0.764706)
+      standard deviation: 34.608 (0.135718)
+      kurtosis: 9.48287
+      skewness: -2.90633
+      entropy: 0.373324
+  Colors: 586
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33,0.03)
+    green primary: (0.3,0.6,0.1)
+    blue primary: (0.15,0.06,0.79)
+    white point: (0.3127,0.329,0.3583)
+  Matte color: grey74
+  Background color: white
+  Border color: srgb(223,223,223)
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 48x48+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: Zip
+  Orientation: Undefined
+  Properties:
+    date:create: 2024-03-15T22:47:58+00:00
+    date:modify: 2024-03-15T22:47:58+00:00
+    date:timestamp: 2024-03-15T22:49:24+00:00
+    png:IHDR.bit-depth-orig: 8
+    png:IHDR.bit_depth: 8
+    png:IHDR.color-type-orig: 2
+    png:IHDR.color_type: 2 (Truecolor)
+    png:IHDR.interlace_method: 0 (Not interlaced)
+    png:IHDR.width,height: 48, 48
+    signature: 5b3a4d2bab23d8d21ef5ac720f63863a053694aeab876dab7e70fc9d53166a56
+  Artifacts:
+    verbose: true
+  Tainted: False
+  Filesize: 2097B
+  Number pixels: 2304
+  Pixel cache type: Memory
+  Pixels per second: 2.98963MP
+  User time: 0.000u
+  Elapsed time: 0:01.000
+  Version: ImageMagick 7.1.1-29 Q16-HDRI x86_64 21991 https://imagemagick.org
+```
+
 # References
 
 * Docs: https://imagemagick.org/script/convert.php
