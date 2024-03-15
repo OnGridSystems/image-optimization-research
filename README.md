@@ -1,8 +1,8 @@
 # image-optimization-research
 
-### Original image (blender's output)
+### Original image (blender's output) 4481 bytes
 
-<img src="./Batch1/Images/JadeArdinals_1.png" width="480" height="480">
+<img src="./Batch1/Images/JadeArdinals_1.png" width="100" height="100"><img src="./Batch1/Images/JadeArdinals_1.png" width="200" height="200"><img src="./Batch1/Images/JadeArdinals_1.png" width="480" height="480">
 
 ### Stripped PNG with metadata removed 4319 bytes
 
