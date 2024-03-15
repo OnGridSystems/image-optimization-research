@@ -2,9 +2,9 @@
 
 SOURCE_IMAGE="./Batch1/Images/JadeArdinals_1.png"
 
-COMMENT="PNG with 500 colors"
-ARGS="-strip -depth 8 -colors 500"
-OUTPUT_IMAGE="./stripped-depth8-500c.png"
+COMMENT="PNG with 340 colors"
+ARGS="-strip -depth 8 -colors 340"
+OUTPUT_IMAGE="./stripped-depth8-340c.png"
 
 
 magick convert $SOURCE_IMAGE $ARGS $OUTPUT_IMAGE
