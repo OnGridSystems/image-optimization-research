@@ -2,9 +2,9 @@
 
 SOURCE_FILES="./Batch1/Images/*.png"
 
-ARGS="-strip -depth 8 -enhance -colors 10"
+ARGS="-strip -depth 8 -enhance -colors 8"
 
-OUTPUT_FOLDER="./gif-10c"
+OUTPUT_FOLDER="./gif-8c"
 
 for file in $(ls $SOURCE_FILES)
 do
