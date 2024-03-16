@@ -1,0 +1,201 @@
+Image:
+  Filename: ./stripped-depth8-50-c.png
+  Permissions: rw-r--r--
+  Format: PNG (Portable Network Graphics)
+  Mime type: image/png
+  Class: PseudoClass
+  Geometry: 48x48+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: Palette
+  Endianness: Undefined
+  Depth: 8-bit
+  Channels: 4.0
+  Channel depth:
+    Red: 8-bit
+    Green: 8-bit
+    Blue: 8-bit
+  Channel statistics:
+    Pixels: 2304
+    Red:
+      min: 49  (0.192157)
+      max: 239 (0.937255)
+      mean: 200.174 (0.784996)
+      median: 206 (0.807843)
+      standard deviation: 26.2788 (0.103054)
+      kurtosis: 18.2936
+      skewness: -3.99912
+      entropy: 0.363662
+    Green:
+      min: 45  (0.176471)
+      max: 231 (0.905882)
+      mean: 185.188 (0.726229)
+      median: 197 (0.772549)
+      standard deviation: 33.5043 (0.131389)
+      kurtosis: 7.1604
+      skewness: -2.72318
+      entropy: 0.380187
+    Blue:
+      min: 15  (0.0588235)
+      max: 237 (0.929412)
+      mean: 165.507 (0.649045)
+      median: 182 (0.713725)
+      standard deviation: 43.0457 (0.168807)
+      kurtosis: 3.53689
+      skewness: -2.0981
+      entropy: 0.380751
+  Image statistics:
+    Overall:
+      min: 15  (0.0588235)
+      max: 239 (0.937255)
+      mean: 183.623 (0.72009)
+      median: 195 (0.764706)
+      standard deviation: 34.2763 (0.134417)
+      kurtosis: 9.66363
+      skewness: -2.94013
+      entropy: 0.374867
+  Colors: 50
+  Histogram:
+            38: (49,45,42) #312D2A srgb(49,45,42)
+             6: (96,87,77) #60574D srgb(96,87,77)
+             4: (97,66,53) #614235 srgb(97,66,53)
+             8: (100,48,28) #64301C srgb(100,48,28)
+            10: (113,56,36) #713824 srgb(113,56,36)
+            10: (119,112,102) #777066 srgb(119,112,102)
+             1: (124,160,177) #7CA0B1 srgb(124,160,177)
+             6: (138,60,23) #8A3C17 srgb(138,60,23)
+             9: (145,110,88) #916E58 srgb(145,110,88)
+             8: (148,155,164) #949BA4 srgb(148,155,164)
+            10: (150,78,39) #964E27 srgb(150,78,39)
+             8: (152,138,116) #988A74 srgb(152,138,116)
+             8: (157,184,202) #9DB8CA srgb(157,184,202)
+            13: (172,89,40) #AC5928 srgb(172,89,40)
+            21: (172,153,135) #AC9987 srgb(172,153,135)
+             9: (174,83,24) #AE5318 srgb(174,83,24)
+            12: (175,108,54) #AF6C36 srgb(175,108,54)
+             3: (175,203,218) #AFCBDA srgb(175,203,218)
+             8: (176,114,75) #B0724B srgb(176,114,75)
+            13: (177,140,112) #B18C70 srgb(177,140,112)
+             7: (181,103,22) #B56716 srgb(181,103,22)
+            20: (182,168,150) #B6A896 srgb(182,168,150)
+            15: (184,177,167) #B8B1A7 srgb(184,177,167)
+             8: (187,139,74) #BB8B4A srgb(187,139,74)
+             2: (196,127,83) #C47F53 srgb(196,127,83)
+             8: (200,113,44) #C8712C srgb(200,113,44)
+            53: (200,186,170) #C8BAAA srgb(200,186,170)
+            11: (202,109,22) #CA6D16 srgb(202,109,22)
+            22: (203,144,77) #CB904D srgb(203,144,77)
+             9: (205,137,52) #CD8934 srgb(205,137,52)
+            21: (206,148,109) #CE946D srgb(206,148,109)
+            16: (206,174,144) #CEAE90 srgb(206,174,144)
+          1724: (206,197,182) #CEC5B6 srgb(206,197,182)
+             4: (207,95,15) #CF5F0F srgb(207,95,15)
+             8: (207,220,230) #CFDCE6 srgb(207,220,230)
+            13: (211,173,109) #D3AD6D srgb(211,173,109)
+            18: (212,165,86) #D4A556 srgb(212,165,86)
+            19: (213,211,210) #D5D3D2 srgb(213,211,210)
+            10: (216,227,237) #D8E3ED srgb(216,227,237)
+             6: (226,171,153) #E2AB99 srgb(226,171,153)
+            15: (229,205,149) #E5CD95 srgb(229,205,149)
+             5: (230,192,47) #E6C02F srgb(230,192,47)
+             7: (231,164,99) #E7A463 srgb(231,164,99)
+             7: (231,166,26) #E7A61A srgb(231,166,26)
+            27: (231,231,233) #E7E7E9 srgb(231,231,233)
+             8: (234,215,152) #EAD798 srgb(234,215,152)
+             8: (235,176,143) #EBB08F srgb(235,176,143)
+             6: (236,206,85) #ECCE55 srgb(236,206,85)
+            16: (236,208,168) #ECD0A8 srgb(236,208,168)
+             6: (239,222,215) #EFDED7 srgb(239,222,215)
+  Colormap entries: 50
+  Colormap:
+    0: (206,197,182,1) #CEC5B6FF srgba(206,197,182,1)
+    1: (213,211,210,1) #D5D3D2FF srgba(213,211,210,1)
+    2: (216,227,237,1) #D8E3EDFF srgba(216,227,237,1)
+    3: (231,231,233,1) #E7E7E9FF srgba(231,231,233,1)
+    4: (207,220,230,1) #CFDCE6FF srgba(207,220,230,1)
+    5: (175,203,218,1) #AFCBDAFF srgba(175,203,218,1)
+    6: (157,184,202,1) #9DB8CAFF srgba(157,184,202,1)
+    7: (184,177,167,1) #B8B1A7FF srgba(184,177,167,1)
+    8: (148,155,164,1) #949BA4FF srgba(148,155,164,1)
+    9: (124,160,177,1) #7CA0B1FF srgba(124,160,177,1)
+    10: (235,176,143,1) #EBB08FFF srgba(235,176,143,1)
+    11: (236,208,168,1) #ECD0A8FF srgba(236,208,168,1)
+    12: (226,171,153,1) #E2AB99FF srgba(226,171,153,1)
+    13: (172,153,135,1) #AC9987FF srgba(172,153,135,1)
+    14: (239,222,215,1) #EFDED7FF srgba(239,222,215,1)
+    15: (206,148,109,1) #CE946DFF srgba(206,148,109,1)
+    16: (200,186,170,1) #C8BAAAFF srgba(200,186,170,1)
+    17: (231,164,99,1) #E7A463FF srgba(231,164,99,1)
+    18: (182,168,150,1) #B6A896FF srgba(182,168,150,1)
+    19: (200,113,44,1) #C8712CFF srgba(200,113,44,1)
+    20: (206,174,144,1) #CEAE90FF srgba(206,174,144,1)
+    21: (176,114,75,1) #B0724BFF srgba(176,114,75,1)
+    22: (145,110,88,1) #916E58FF srgba(145,110,88,1)
+    23: (203,144,77,1) #CB904DFF srgba(203,144,77,1)
+    24: (212,165,86,1) #D4A556FF srgba(212,165,86,1)
+    25: (172,89,40,1) #AC5928FF srgba(172,89,40,1)
+    26: (229,205,149,1) #E5CD95FF srgba(229,205,149,1)
+    27: (150,78,39,1) #964E27FF srgba(150,78,39,1)
+    28: (174,83,24,1) #AE5318FF srgba(174,83,24,1)
+    29: (152,138,116,1) #988A74FF srgba(152,138,116,1)
+    30: (175,108,54,1) #AF6C36FF srgba(175,108,54,1)
+    31: (211,173,109,1) #D3AD6DFF srgba(211,173,109,1)
+    32: (202,109,22,1) #CA6D16FF srgba(202,109,22,1)
+    33: (181,103,22,1) #B56716FF srgba(181,103,22,1)
+    34: (138,60,23,1) #8A3C17FF srgba(138,60,23,1)
+    35: (100,48,28,1) #64301CFF srgba(100,48,28,1)
+    36: (113,56,36,1) #713824FF srgba(113,56,36,1)
+    37: (97,66,53,1) #614235FF srgba(97,66,53,1)
+    38: (177,140,112,1) #B18C70FF srgba(177,140,112,1)
+    39: (231,166,26,1) #E7A61AFF srgba(231,166,26,1)
+    40: (230,192,47,1) #E6C02FFF srgba(230,192,47,1)
+    41: (205,137,52,1) #CD8934FF srgba(205,137,52,1)
+    42: (196,127,83,1) #C47F53FF srgba(196,127,83,1)
+    43: (236,206,85,1) #ECCE55FF srgba(236,206,85,1)
+    44: (234,215,152,1) #EAD798FF srgba(234,215,152,1)
+    45: (187,139,74,1) #BB8B4AFF srgba(187,139,74,1)
+    46: (207,95,15,1) #CF5F0FFF srgba(207,95,15,1)
+    47: (119,112,102,1) #777066FF srgba(119,112,102,1)
+    48: (49,45,42,1) #312D2AFF srgba(49,45,42,1)
+    49: (96,87,77,1) #60574DFF srgba(96,87,77,1)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33,0.03)
+    green primary: (0.3,0.6,0.1)
+    blue primary: (0.15,0.06,0.79)
+    white point: (0.3127,0.329,0.3583)
+  Matte color: grey74
+  Background color: white
+  Border color: srgb(223,223,223)
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 48x48+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: Zip
+  Orientation: Undefined
+  Properties:
+    date:create: 2024-03-16T00:26:42+00:00
+    date:modify: 2024-03-16T00:26:42+00:00
+    date:timestamp: 2024-03-16T00:26:42+00:00
+    png:IHDR.bit-depth-orig: 8
+    png:IHDR.bit_depth: 8
+    png:IHDR.color-type-orig: 3
+    png:IHDR.color_type: 3 (Indexed)
+    png:IHDR.interlace_method: 0 (Not interlaced)
+    png:IHDR.width,height: 48, 48
+    png:PLTE.number_colors: 50
+    signature: a9b258c979d61c8042c1356b89cd461f4e0c572dca8e8a210f9d628ef4f747eb
+  Artifacts:
+    verbose: true
+  Tainted: False
+  Filesize: 724B
+  Number pixels: 2304
+  Pixel cache type: Memory
+  Pixels per second: 2.92787MP
+  User time: 0.000u
+  Elapsed time: 0:01.000
+  Version: ImageMagick 7.1.1-29 Q16-HDRI x86_64 21991 https://imagemagick.org
