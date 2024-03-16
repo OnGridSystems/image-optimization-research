@@ -1,0 +1,141 @@
+Image:
+  Filename: ./stripped-depth8-20-c.png
+  Permissions: rw-r--r--
+  Format: PNG (Portable Network Graphics)
+  Mime type: image/png
+  Class: PseudoClass
+  Geometry: 48x48+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: Palette
+  Endianness: Undefined
+  Depth: 8-bit
+  Channels: 4.0
+  Channel depth:
+    Red: 8-bit
+    Green: 8-bit
+    Blue: 8-bit
+  Channel statistics:
+    Pixels: 2304
+    Red:
+      min: 49  (0.192157)
+      max: 233 (0.913725)
+      mean: 200.236 (0.785238)
+      median: 206 (0.807843)
+      standard deviation: 26.1221 (0.102439)
+      kurtosis: 19.0092
+      skewness: -4.13825
+      entropy: 0.415814
+    Green:
+      min: 45  (0.176471)
+      max: 223 (0.87451)
+      mean: 185.271 (0.726554)
+      median: 197 (0.772549)
+      standard deviation: 33.1669 (0.130066)
+      kurtosis: 7.40792
+      skewness: -2.77688
+      entropy: 0.412219
+    Blue:
+      min: 31  (0.121569)
+      max: 225 (0.882353)
+      mean: 165.454 (0.648837)
+      median: 182 (0.713725)
+      standard deviation: 42.7342 (0.167585)
+      kurtosis: 3.43037
+      skewness: -2.11004
+      entropy: 0.4174
+  Image statistics:
+    Overall:
+      min: 31  (0.121569)
+      max: 233 (0.913725)
+      mean: 183.654 (0.72021)
+      median: 195 (0.764706)
+      standard deviation: 34.0077 (0.133364)
+      kurtosis: 9.94915
+      skewness: -3.00839
+      entropy: 0.415145
+  Colors: 20
+  Histogram:
+            38: (49,45,42) #312D2A srgb(49,45,42)
+             6: (97,66,53) #614235 srgb(97,66,53)
+            18: (105,51,31) #69331F srgb(105,51,31)
+            15: (106,98,88) #6A6258 srgb(106,98,88)
+             3: (124,160,177) #7CA0B1 srgb(124,160,177)
+            18: (154,79,40) #9A4F28 srgb(154,79,40)
+            21: (160,112,82) #A07052 srgb(160,112,82)
+            11: (166,194,210) #A6C2D2 srgb(166,194,210)
+            27: (171,92,37) #AB5C25 srgb(171,92,37)
+            30: (173,139,104) #AD8B68 srgb(173,139,104)
+            50: (176,165,151) #B0A597 srgb(176,165,151)
+            69: (200,186,170) #C8BAAA srgb(200,186,170)
+            32: (201,110,31) #C96E1F srgb(201,110,31)
+          1732: (206,197,182) #CEC5B6 srgb(206,197,182)
+            77: (210,156,95) #D29C5F srgb(210,156,95)
+            26: (218,174,146) #DAAE92 srgb(218,174,146)
+            21: (220,153,37) #DC9925 srgb(220,153,37)
+            63: (223,223,225) #DFDFE1 srgb(223,223,225)
+            10: (233,199,68) #E9C744 srgb(233,199,68)
+            37: (233,209,156) #E9D19C srgb(233,209,156)
+  Colormap entries: 20
+  Colormap:
+    0: (206,197,182,1) #CEC5B6FF srgba(206,197,182,1)
+    1: (223,223,225,1) #DFDFE1FF srgba(223,223,225,1)
+    2: (166,194,210,1) #A6C2D2FF srgba(166,194,210,1)
+    3: (176,165,151,1) #B0A597FF srgba(176,165,151,1)
+    4: (124,160,177,1) #7CA0B1FF srgba(124,160,177,1)
+    5: (218,174,146,1) #DAAE92FF srgba(218,174,146,1)
+    6: (210,156,95,1) #D29C5FFF srgba(210,156,95,1)
+    7: (200,186,170,1) #C8BAAAFF srgba(200,186,170,1)
+    8: (233,209,156,1) #E9D19CFF srgba(233,209,156,1)
+    9: (201,110,31,1) #C96E1FFF srgba(201,110,31,1)
+    10: (160,112,82,1) #A07052FF srgba(160,112,82,1)
+    11: (220,153,37,1) #DC9925FF srgba(220,153,37,1)
+    12: (171,92,37,1) #AB5C25FF srgba(171,92,37,1)
+    13: (154,79,40,1) #9A4F28FF srgba(154,79,40,1)
+    14: (173,139,104,1) #AD8B68FF srgba(173,139,104,1)
+    15: (105,51,31,1) #69331FFF srgba(105,51,31,1)
+    16: (97,66,53,1) #614235FF srgba(97,66,53,1)
+    17: (233,199,68,1) #E9C744FF srgba(233,199,68,1)
+    18: (106,98,88,1) #6A6258FF srgba(106,98,88,1)
+    19: (49,45,42,1) #312D2AFF srgba(49,45,42,1)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33,0.03)
+    green primary: (0.3,0.6,0.1)
+    blue primary: (0.15,0.06,0.79)
+    white point: (0.3127,0.329,0.3583)
+  Matte color: grey74
+  Background color: white
+  Border color: srgb(223,223,223)
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 48x48+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: Zip
+  Orientation: Undefined
+  Properties:
+    date:create: 2024-03-16T00:28:54+00:00
+    date:modify: 2024-03-16T00:28:54+00:00
+    date:timestamp: 2024-03-16T00:28:54+00:00
+    png:IHDR.bit-depth-orig: 8
+    png:IHDR.bit_depth: 8
+    png:IHDR.color-type-orig: 3
+    png:IHDR.color_type: 3 (Indexed)
+    png:IHDR.interlace_method: 0 (Not interlaced)
+    png:IHDR.width,height: 48, 48
+    png:PLTE.number_colors: 20
+    signature: 4bcae362a7f1e70e9c0b1cd5b5506014f9f6762a4d55a6c9fe78144e980fbf31
+  Artifacts:
+    verbose: true
+  Tainted: False
+  Filesize: 518B
+  Number pixels: 2304
+  Pixel cache type: Memory
+  Pixels per second: 2.88568MP
+  User time: 0.000u
+  Elapsed time: 0:01.000
+  Version: ImageMagick 7.1.1-29 Q16-HDRI x86_64 21991 https://imagemagick.org
