@@ -159,6 +159,6 @@ Arguments: -strip -depth 8 -colors 15
 
 Arguments: -strip -depth 8 -colors 15
 
-<img src="./stripped-depth8-15-c.gif" width="100" height="100"><img src="./stripped-depth8-15-c.gif" width="200" height="200"><img src="./stripped-depth8-15-c.gif" width="480" height="480">
+<img src="./stripped-depth8-15-c.gif" width="100" height="100"><img src="./stripped-depth8-15-c.gif" width="200" height="200"><img src="./stripped-depth8-15-c.gif" width="480" height="480" style="image-rendering: pixelated;image-rendering: -moz-crisp-edges;image-rendering: crisp-edges;">
 <a href=./stripped-depth8-15-c.gif.details.txt>details</a>
 
