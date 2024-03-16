@@ -90,3 +90,11 @@ Arguments: -strip -depth 8 -colors 100
 <img src="./stripped-depth8-100-c.png" width="100" height="100"><img src="./stripped-depth8-100-c.png" width="200" height="200"><img src="./stripped-depth8-100-c.png" width="480" height="480">
 <a href=./stripped-depth8-100-c.png.details.txt>details</a>
 
+
+### PNG with 80 colors (877 bytes)
+
+Arguments: -strip -depth 8 -colors 80
+
+<img src="./stripped-depth8-80-c.png" width="100" height="100"><img src="./stripped-depth8-80-c.png" width="200" height="200"><img src="./stripped-depth8-80-c.png" width="480" height="480">
+<a href=./stripped-depth8-80-c.png.details.txt>details</a>
+
