@@ -4,9 +4,9 @@ SOURCE_IMAGE="./Batch1/Images/JadeArdinals_1.png"
 
 COLORS="15"
 
-COMMENT="PNG with $COLORS colors"
+COMMENT="GIF with $COLORS colors"
 ARGS="-strip -depth 8 -colors $COLORS"
-OUTPUT_IMAGE="./stripped-depth8-$COLORS-c.png"
+OUTPUT_IMAGE="./stripped-depth8-$COLORS-c.gif"
 
 
 magick convert $SOURCE_IMAGE $ARGS $OUTPUT_IMAGE
