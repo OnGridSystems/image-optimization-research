@@ -170,3 +170,11 @@ Arguments: -strip -depth 8 -colors 12
 <img src="./stripped-depth8-12-c.gif" width="100" height="100"><img src="./stripped-depth8-12-c.gif" width="200" height="200"><img src="./stripped-depth8-12-c.gif" width="480" height="480">
 <a href=./stripped-depth8-12-c.gif.details.txt>details</a>
 
+
+### GIF with 16 colors (480 bytes)
+
+Arguments: -strip -depth 8 -colors 16
+
+<img src="./stripped2-depth8-16-c.gif" width="100" height="100"><img src="./stripped2-depth8-16-c.gif" width="200" height="200"><img src="./stripped2-depth8-16-c.gif" width="480" height="480">
+<a href=./stripped2-depth8-16-c.gif.details.txt>details</a>
+

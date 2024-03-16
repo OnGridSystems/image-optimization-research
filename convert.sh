@@ -1,12 +1,12 @@
 #!/bin/bash
 
-SOURCE_IMAGE="./Batch1/Images/JadeArdinals_1.png"
+SOURCE_IMAGE="./Batch1/Images/JadeArdinals_2.png"
 
-COLORS="12"
+COLORS="16"
 
 COMMENT="GIF with $COLORS colors"
 ARGS="-strip -depth 8 -colors $COLORS"
-OUTPUT_IMAGE="./stripped-depth8-$COLORS-c.gif"
+OUTPUT_IMAGE="./stripped2-depth8-$COLORS-c.gif"
 
 
 magick convert $SOURCE_IMAGE $ARGS $OUTPUT_IMAGE
