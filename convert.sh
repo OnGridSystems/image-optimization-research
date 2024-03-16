@@ -2,7 +2,7 @@
 
 SOURCE_IMAGE="./Batch1/Images/JadeArdinals_1.png"
 
-COLORS="15"
+COLORS="12"
 
 COMMENT="GIF with $COLORS colors"
 ARGS="-strip -depth 8 -colors $COLORS"
