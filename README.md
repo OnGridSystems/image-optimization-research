@@ -50,3 +50,19 @@ Arguments: -strip -depth 8 -colors 220
 <img src="./stripped-depth8-220c.png" width="100" height="100"><img src="./stripped-depth8-220c.png" width="200" height="200"><img src="./stripped-depth8-220c.png" width="480" height="480">
 <a href=./stripped-depth8-220c.png.details.txt>details</a>
 
+
+### PNG with 187 colors (1244 bytes)
+
+Arguments: -strip -depth 8 -colors 187
+
+<img src="./stripped-depth8-220c.png" width="100" height="100"><img src="./stripped-depth8-220c.png" width="200" height="200"><img src="./stripped-depth8-220c.png" width="480" height="480">
+<a href=./stripped-depth8-220c.png.details.txt>details</a>
+
+
+### PNG with 167 colors (1181 bytes)
+
+Arguments: -strip -depth 8 -colors 167
+
+<img src="./stripped-depth8-167c.png" width="100" height="100"><img src="./stripped-depth8-167c.png" width="200" height="200"><img src="./stripped-depth8-167c.png" width="480" height="480">
+<a href=./stripped-depth8-167c.png.details.txt>details</a>
+
