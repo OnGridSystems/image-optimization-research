@@ -1,0 +1,161 @@
+Image:
+  Filename: ./stripped-depth8-30-c.png
+  Permissions: rw-r--r--
+  Format: PNG (Portable Network Graphics)
+  Mime type: image/png
+  Class: PseudoClass
+  Geometry: 48x48+0+0
+  Units: Undefined
+  Colorspace: sRGB
+  Type: Palette
+  Endianness: Undefined
+  Depth: 8-bit
+  Channels: 4.0
+  Channel depth:
+    Red: 8-bit
+    Green: 8-bit
+    Blue: 8-bit
+  Channel statistics:
+    Pixels: 2304
+    Red:
+      min: 49  (0.192157)
+      max: 233 (0.913725)
+      mean: 200.155 (0.78492)
+      median: 206 (0.807843)
+      standard deviation: 26.1518 (0.102556)
+      kurtosis: 18.895
+      skewness: -4.1202
+      entropy: 0.385278
+    Green:
+      min: 45  (0.176471)
+      max: 231 (0.905882)
+      mean: 185.046 (0.725669)
+      median: 197 (0.772549)
+      standard deviation: 33.3711 (0.130867)
+      kurtosis: 7.11705
+      skewness: -2.7209
+      entropy: 0.405108
+    Blue:
+      min: 31  (0.121569)
+      max: 233 (0.913725)
+      mean: 165.492 (0.648989)
+      median: 182 (0.713725)
+      standard deviation: 42.6388 (0.167211)
+      kurtosis: 3.34742
+      skewness: -2.07403
+      entropy: 0.406924
+  Image statistics:
+    Overall:
+      min: 31  (0.121569)
+      max: 233 (0.913725)
+      mean: 183.564 (0.719859)
+      median: 195 (0.764706)
+      standard deviation: 34.0539 (0.133545)
+      kurtosis: 9.78649
+      skewness: -2.97171
+      entropy: 0.399103
+  Colors: 30
+  Histogram:
+            38: (49,45,42) #312D2A srgb(49,45,42)
+             6: (97,66,53) #614235 srgb(97,66,53)
+            18: (105,51,31) #69331F srgb(105,51,31)
+            15: (106,98,88) #6A6258 srgb(106,98,88)
+             3: (124,160,177) #7CA0B1 srgb(124,160,177)
+             7: (148,155,164) #949BA4 srgb(148,155,164)
+            15: (154,79,40) #9A4F28 srgb(154,79,40)
+            20: (160,112,82) #A07052 srgb(160,112,82)
+            10: (166,194,210) #A6C2D2 srgb(166,194,210)
+            17: (171,93,36) #AB5D24 srgb(171,93,36)
+            15: (172,89,40) #AC5928 srgb(172,89,40)
+            20: (172,153,135) #AC9987 srgb(172,153,135)
+            21: (173,139,104) #AD8B68 srgb(173,139,104)
+            19: (182,168,150) #B6A896 srgb(182,168,150)
+            14: (184,177,167) #B8B1A7 srgb(184,177,167)
+            54: (200,186,170) #C8BAAA srgb(200,186,170)
+            30: (201,110,31) #C96E1F srgb(201,110,31)
+            39: (203,144,77) #CB904D srgb(203,144,77)
+            23: (206,148,109) #CE946D srgb(206,148,109)
+            18: (206,174,144) #CEAE90 srgb(206,174,144)
+          1727: (206,197,182) #CEC5B6 srgb(206,197,182)
+            23: (211,173,109) #D3AD6D srgb(211,173,109)
+            19: (213,211,210) #D5D3D2 srgb(213,211,210)
+            14: (220,153,37) #DC9925 srgb(220,153,37)
+            32: (221,223,228) #DDDFE4 srgb(221,223,228)
+            14: (223,164,94) #DFA45E srgb(223,164,94)
+            14: (230,173,148) #E6AD94 srgb(230,173,148)
+            18: (231,231,233) #E7E7E9 srgb(231,231,233)
+             7: (233,199,68) #E9C744 srgb(233,199,68)
+            34: (233,209,156) #E9D19C srgb(233,209,156)
+  Colormap entries: 30
+  Colormap:
+    0: (206,197,182,1) #CEC5B6FF srgba(206,197,182,1)
+    1: (213,211,210,1) #D5D3D2FF srgba(213,211,210,1)
+    2: (221,223,228,1) #DDDFE4FF srgba(221,223,228,1)
+    3: (231,231,233,1) #E7E7E9FF srgba(231,231,233,1)
+    4: (166,194,210,1) #A6C2D2FF srgba(166,194,210,1)
+    5: (184,177,167,1) #B8B1A7FF srgba(184,177,167,1)
+    6: (148,155,164,1) #949BA4FF srgba(148,155,164,1)
+    7: (124,160,177,1) #7CA0B1FF srgba(124,160,177,1)
+    8: (230,173,148,1) #E6AD94FF srgba(230,173,148,1)
+    9: (172,153,135,1) #AC9987FF srgba(172,153,135,1)
+    10: (206,148,109,1) #CE946DFF srgba(206,148,109,1)
+    11: (200,186,170,1) #C8BAAAFF srgba(200,186,170,1)
+    12: (233,209,156,1) #E9D19CFF srgba(233,209,156,1)
+    13: (211,173,109,1) #D3AD6DFF srgba(211,173,109,1)
+    14: (182,168,150,1) #B6A896FF srgba(182,168,150,1)
+    15: (201,110,31,1) #C96E1FFF srgba(201,110,31,1)
+    16: (223,164,94,1) #DFA45EFF srgba(223,164,94,1)
+    17: (206,174,144,1) #CEAE90FF srgba(206,174,144,1)
+    18: (160,112,82,1) #A07052FF srgba(160,112,82,1)
+    19: (203,144,77,1) #CB904DFF srgba(203,144,77,1)
+    20: (172,89,40,1) #AC5928FF srgba(172,89,40,1)
+    21: (171,93,36,1) #AB5D24FF srgba(171,93,36,1)
+    22: (154,79,40,1) #9A4F28FF srgba(154,79,40,1)
+    23: (173,139,104,1) #AD8B68FF srgba(173,139,104,1)
+    24: (105,51,31,1) #69331FFF srgba(105,51,31,1)
+    25: (97,66,53,1) #614235FF srgba(97,66,53,1)
+    26: (220,153,37,1) #DC9925FF srgba(220,153,37,1)
+    27: (233,199,68,1) #E9C744FF srgba(233,199,68,1)
+    28: (106,98,88,1) #6A6258FF srgba(106,98,88,1)
+    29: (49,45,42,1) #312D2AFF srgba(49,45,42,1)
+  Rendering intent: Perceptual
+  Gamma: 0.454545
+  Chromaticity:
+    red primary: (0.64,0.33,0.03)
+    green primary: (0.3,0.6,0.1)
+    blue primary: (0.15,0.06,0.79)
+    white point: (0.3127,0.329,0.3583)
+  Matte color: grey74
+  Background color: white
+  Border color: srgb(223,223,223)
+  Transparent color: black
+  Interlace: None
+  Intensity: Undefined
+  Compose: Over
+  Page geometry: 48x48+0+0
+  Dispose: Undefined
+  Iterations: 0
+  Compression: Zip
+  Orientation: Undefined
+  Properties:
+    date:create: 2024-03-16T00:28:15+00:00
+    date:modify: 2024-03-16T00:28:15+00:00
+    date:timestamp: 2024-03-16T00:28:15+00:00
+    png:IHDR.bit-depth-orig: 8
+    png:IHDR.bit_depth: 8
+    png:IHDR.color-type-orig: 3
+    png:IHDR.color_type: 3 (Indexed)
+    png:IHDR.interlace_method: 0 (Not interlaced)
+    png:IHDR.width,height: 48, 48
+    png:PLTE.number_colors: 30
+    signature: 5c16610170a38d3a55c4d78852ede577557060e01cb54c171245279f6d99f6f8
+  Artifacts:
+    verbose: true
+  Tainted: False
+  Filesize: 602B
+  Number pixels: 2304
+  Pixel cache type: Memory
+  Pixels per second: 3.20412MP
+  User time: 0.000u
+  Elapsed time: 0:01.000
+  Version: ImageMagick 7.1.1-29 Q16-HDRI x86_64 21991 https://imagemagick.org
